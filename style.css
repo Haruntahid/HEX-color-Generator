@@ -1,0 +1,15 @@
+#root {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#btn {
+  padding: 10px 20px;
+  color: #000000;
+  font-weight: 500;
+}
+#output {
+  padding: 10px 20px;
+}
